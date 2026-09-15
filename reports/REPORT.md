@@ -10,10 +10,10 @@ Ngày: `15/9/2026`
 | Mục | Giá trị |
 | --- | --- |
 | Công cụ | CVAT |
-| Thời gian gán `clip_02` (warm-up) | Chưa ghi lại |
-| Thời gian gán `clip_01` | Chưa ghi lại |
+| Thời gian gán `clip_02` (warm-up) | 16 phút |
+| Thời gian gán `clip_01` | 27 phút |
 | Số track đã vẽ trong `clip_01` | 8 |
-| Số keyframe trung bình mỗi track | Chưa ghi lại |
+| Số keyframe trung bình mỗi track | 8 |
 
 Ba tình huống khó nhất khi gán clip này, và bạn xử lý thế nào:
 
